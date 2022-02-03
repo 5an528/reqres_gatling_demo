@@ -1,0 +1,10 @@
+{
+  "simulation": "simulation.AddUserSimulation",
+  "simulationId": "addusersimulation",
+  "start": 1639999766448,
+  "description": "ReqRes 2 Scenario",
+  "scenarios": ["Add User Scenario"],
+  "assertions": [
+
+  ]
+}

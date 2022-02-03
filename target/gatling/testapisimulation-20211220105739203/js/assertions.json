@@ -1,0 +1,10 @@
+{
+  "simulation": "simulation.TestAPISimulation",
+  "simulationId": "testapisimulation",
+  "start": 1639997859203,
+  "description": "ReqRes 100 User Demo",
+  "scenarios": ["get user type"],
+  "assertions": [
+
+  ]
+}

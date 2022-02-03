@@ -1,0 +1,4 @@
+RUN	simulation.TestAPISimulation	testapisimulation	1639997582145	ReqRes Demo	3.7.2
+USER	get user type	START	1639997584093
+REQUEST		get user request	1639997584162	1639997585082	OK	 
+USER	get user type	END	1639997585126
